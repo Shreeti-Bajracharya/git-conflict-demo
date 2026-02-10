@@ -1,4 +1,5 @@
 <?php
+
 $a = 10;
 $b = 20;
 function sum($a,$b){
@@ -6,4 +7,8 @@ function sum($a,$b){
 }
 
 echo sum($a,$b);
+
+echo "Hello from Shreeti Bajracharya!";
+echo "Hello World!";
+
 ?>
